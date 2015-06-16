@@ -1,9 +1,9 @@
 # MODELS_CINEMA4D_ONU
-Basic working models
-01 Glass microscope
-02 Vortex laboratory equipment
-03 Calibration laboratory cylinder (material)
-04 Conical flasks
+Basic working models;
+01 Glass microscope;
+02 Vortex laboratory equipment;
+03 Calibration laboratory cylinder (material);
+04 Conical flasks;
 05 Flat-bottomed flasks
 06 Container for waste materials
 07 Pipette tips
